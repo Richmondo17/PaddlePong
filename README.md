@@ -4,8 +4,6 @@
 
 This is a mini two-player ping pong game that records points for each player and then declares a winner at the end of the game. Each player starts with 2 points, and the first to 0 points loses the match. A game over screen will be displayed, declaring the winner.
 
-## Getting Started
-
 ### Setting up the project
 
 * Processing 3 version 3.5.4
