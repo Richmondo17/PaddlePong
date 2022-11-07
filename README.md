@@ -20,7 +20,7 @@ This is a mini two-player ping pong game that records points for each player and
 
 ### Walkthrough Video
 
-http://g.recordit.co/8FIqFoIlwj.gif
+"http://g.recordit.co/8FIqFoIlwj.gif"
 
 
 
