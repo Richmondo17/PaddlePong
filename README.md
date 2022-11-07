@@ -12,36 +12,8 @@ This is a mini two-player ping pong game that records points for each player and
 
 ### Executing program
 
-* How to run the program
-*
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
+* User must press "T" or "t" to begin gameplay
+* Player one uses "W" key to push paddle up and "S" key to push paddle down
+* Player two uses "I" key to push paddle up and "K" key to push paddle down
+* If ball goes out of bounds on the right, player two must press "C" to serve ball
+* If ball goes out of bounds on the left, player one must press "C" to serve ball
